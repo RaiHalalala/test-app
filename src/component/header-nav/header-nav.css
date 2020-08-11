@@ -1,0 +1,25 @@
+.header{
+  background-color: rgb(92, 118, 174);
+  height: 100%;
+  display: flex;
+}
+
+.logo-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 2px;
+}
+
+.img-icon{
+  width: 60px;
+  margin: 5px 20px;
+}
+
+
+.logo-name{
+ font-size: 14px;
+ color: white;
+ margin: 0;
+}

@@ -1,0 +1,37 @@
+
+.empty-container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) ;
+  background-color: white;
+  padding: 20px;
+  width: 400px;
+  border-radius: 6px;
+}
+.input-register{
+  width: 95%;
+  height: 30px;
+  margin: 10px 0;
+  border: 1px double rgb(244, 244, 244);
+  padding: 8px;
+}
+
+.input-register:focus{
+  outline: none; /* Убираем контур */
+  border-color: blue;
+  border: 1px double rgb(92, 118, 174) !important;
+  border-radius: 0%;
+}
+
+.button-add-form{
+  width: 100%;
+  font-size: 20px;
+  padding: 5px 0;
+  border: 0;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: rgb(92, 118, 174);
+  color: white;
+}

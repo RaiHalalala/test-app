@@ -1,0 +1,60 @@
+.img-profile {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+.massage-item{
+    padding: 7px;
+    border: 1px solid #c0c0c0;
+    margin: 15px 0;
+    text-align: start;
+    width: 490px;
+}
+
+.body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-size{
+    width: 80px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.userContainer{
+    display: flex;
+    align-items: center;
+    margin: 20px 10px;
+}
+
+.userInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.img-big{
+    
+}
+
+.massage-item-form{
+    display: flex;
+    justify-items: center;
+}
+
+.massage-item-input{
+    width: 100%;
+    margin: 0;
+    height: 16px;
+    border: 0;
+}
+
+input.massage-item-input:focus{
+    border: 0;
+    outline: 0;
+    background-color: rgb(223, 223, 223, 0.2);
+}

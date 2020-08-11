@@ -1,0 +1,67 @@
+div .preview {
+    width: 100%;
+    position: relative;
+}
+
+div .preview img {
+    width: 100%;
+}
+
+#dynamic-label-input {
+    width: 500px;
+    height: 100%;
+    padding: ;
+}
+
+.form-group {
+    position: relative;
+    padding-top: 0;
+   }
+   
+label {
+position: absolute;
+top: 0;
+font-size: var(--font-size-small);
+opacity: 1;
+transform: translateY(0);
+transition: all 0.2s ease-out;
+}
+
+textarea:placeholder-shown + label {
+opacity: 0;
+transform: translateY(1rem);
+}
+
+.form{
+    display: flex;
+    height: 40px;
+    /* margin: 20px; */
+}
+
+.btn-inert {
+    height: 100%;
+    margin-left: 20px;
+    border: 0;
+    padding: 0 20px;
+    background-color: rgb(92, 118, 174);
+    opacity: 0.9;
+    color: seashell;
+    font-size: 15px;
+}
+
+.profile-content{
+    margin: 20px ;
+}
+
+.post-item{
+    padding: 7px;
+    border: 1px solid #c0c0c0;
+    margin: 30px 0;
+    text-align: start;
+    width: 490px;
+}
+
+.profile{
+    margin-bottom: 100px;
+}
+

@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.body-content{
+  display: flex;
+  flex-direction: row;
+}
+
+h1.logo-icon-name{
+  color: white;
+  font-size: 38px;
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style-type: none; /* Убираем маркеры */
+ }
+
+.content{
+  width: 100%;
+}
+
+.container{
+  width: 1000px;
+  height: 100%;
+  margin: 0 auto;
+  
+}
+
+a:visited{
+  color: black;
+}
+a:link{
+  text-decoration: none;
+  color: black;
+}
+

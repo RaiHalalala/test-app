@@ -1,0 +1,31 @@
+.back-app{
+  background-color: rgb(244, 244, 244);
+
+}
+
+.layout-empty-container{
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(244, 244, 244);
+}
+
+.header-app{
+  height: auto;
+  background-color: rgb(92, 118, 174, 0.8);
+}
+
+.footer-app{
+  height: 40px;
+  background-color: rgb(244, 244, 244);
+  border-top: 1px double #C0C0C0;
+}
+
+/* .header{
+  background-color: rgb(92, 118, 174);
+  height: 100%;
+} */
+
+.footer{
+  background-color: transparent;
+}

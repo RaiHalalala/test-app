@@ -1,0 +1,126 @@
+{
+  "posts": [
+    {
+      "massage": "Hello, how are you?",
+      "key": 1
+    },
+    {
+      "massage": "Piska",
+      "key": 2
+    },
+    {
+      "massage": "How old are you?",
+      "key": 3
+    },
+    {
+      "massage": "Hello, how are you?",
+      "key": 4
+    },
+    {
+      "massage": "Hello, how are you?",
+      "key": 5
+    },
+    {
+      "id": 7,
+      "massage": "v",
+      "key": 7
+    },
+    {
+      "massage": "h",
+      "key": 7,
+      "id": 8
+    },
+    {
+      "massage": "hello",
+      "key": 7,
+      "id": 9
+    }
+  ],
+  "picters": {
+    "previwUser": "https://sun7-7.userapi.com/1N-sf69OLDOhImWsIiXxHNdxRIuikzkVoycNRg/IAJBlDIJl_c.jpg"
+  },
+  "usersApp": [
+    {
+      "name": "Dima",
+      "avatar": "https://sun9-23.userapi.com/c635103/v635103221/36190/NojvqQpPegs.jpg",
+      "href": "/1",
+      "key": "1",
+      "idUser": 1,
+      "hideData": false
+    },
+    {
+      "name": "Raihan",
+      "avatar": "https://sun9-23.userapi.com/c635103/v635103221/36190/NojvqQpPegs.jpg",
+      "href": "/2",
+      "key": "2",
+      "idUser": 2,
+      "hideData": false
+    },
+    {
+      "name": "Diana",
+      "avatar": "https://sun9-23.userapi.com/c635103/v635103221/36190/NojvqQpPegs.jpg",
+      "href": "/3",
+      "key": "3",
+      "idUser": 3,
+      "hideData": false
+    },
+    {
+      "name": "Igosha",
+      "avatar": "https://sun9-23.userapi.com/c635103/v635103221/36190/NojvqQpPegs.jpg",
+      "href": "/4",
+      "key": "4",
+      "idUser": 4,
+      "hideData": false
+    },
+    {
+      "name": "Polina",
+      "avatar": "https://sun9-23.userapi.com/c635103/v635103221/36190/NojvqQpPegs.jpg",
+      "href": "/5",
+      "key": "5",
+      "idUser": 5,
+      "hideData": false
+    }
+  ],
+  "dialogsApp": [
+    [
+      {
+        "key": 1,
+        "idDialog": 1,
+        "massages": "I love youuu"
+      },
+      {
+        "key": 1,
+        "idDialog": 1,
+        "massages": "I love youuu"
+      }
+    ],
+    [
+      {
+        "key": 3,
+        "idDialog": 2,
+        "massages": "Hehe"
+      }
+    ],
+    [
+      {
+        "key": 4,
+        "idDialog": 3,
+        "massages": "Yo"
+      }
+    ],
+    [
+      {
+        "key": 5,
+        "idDialog": 4,
+        "massages": "Are you go in the park?"
+      }
+    ],
+    [
+      {
+        "key": 6,
+        "idDialog": 5,
+        "massages": "I`m stupid"
+      }
+    ]
+  ]
+}
